@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Home_Automation__RPi2_WinIoT_.Library.Communication.I2C_Helper">
+    <Position X="1.25" Y="0.5" Width="3" />
+    <NestedTypes>
+      <Enum Name="Home_Automation__RPi2_WinIoT_.Library.Communication.I2C_Helper.Mode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Library\Communication\I2C_Helper.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAAQAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Library\Communication\I2C_Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Home_Automation__RPi2_WinIoT_.Library.Core.Device">
+    <Position X="9.75" Y="0.5" Width="3.25" />
+    <NestedTypes>
+      <Enum Name="Home_Automation__RPi2_WinIoT_.Library.Core.Device.PinsEnum" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Library\Core\Device.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Home_Automation__RPi2_WinIoT_.Library.Core.Device.StatusEnum" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Library\Core\Device.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABACAEAEAAAAAAAAAAACAIQAEAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Library\Core\Device.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Home_Automation__RPi2_WinIoT_.Library.Core.Home">
+    <Position X="4.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAwCAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\Core\Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Home_Automation__RPi2_WinIoT_.Library.Core.Room">
+    <Position X="7.25" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Struct Name="Home_Automation__RPi2_WinIoT_.Library.Core.Room.SensorSturct" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Library\Core\Room.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAQAAIAAAAAAAAAAAAAAIQAUAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Library\Core\Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Home_Automation__RPi2_WinIoT_.Library.Core.Sensors.AmbientLight">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\Core\Sensors\Enviromental.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Home_Automation__RPi2_WinIoT_.Library.Core.Sensors.PassiveIR">
+    <Position X="4.5" Y="4.25" Width="5" />
+    <NestedTypes>
+      <Enum Name="Home_Automation__RPi2_WinIoT_.Library.Core.Sensors.PassiveIR.EnumHumanPresenseStatus" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Library\Core\Sensors\Enviromental.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\Core\Sensors\Enviromental.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Home_Automation__RPi2_WinIoT_.Library.Core.Sensors.Temperature">
+    <Position X="9.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAIAAAAAAACAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\Core\Sensors\Enviromental.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
